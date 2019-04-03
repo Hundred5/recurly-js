@@ -13,8 +13,8 @@ const staticConfig = {
   colors: true,
   autoWatch: true,
   browsers: [
-    'ChromeHeadless'
-    // 'ChromeDebug'
+    // 'ChromeHeadless'
+    'ChromeDebug'
     // 'FirefoxDebug'
     // 'VirtualBoxIE11Win7'
   ],
