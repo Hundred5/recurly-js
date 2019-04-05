@@ -37,7 +37,8 @@ const staticConfig = {
     VirtualBoxIE11Win7: {
       base: 'VirtualBoxIE11',
       keepAlive: true,
-      vmName: 'IE11 - Win7'
+      vmName: 'IE11 - Win7',
+      uuid: '2c5784d9-d539-4ba2-9c9b-48ec8a4cf7de'
     }
   },
   client: {
