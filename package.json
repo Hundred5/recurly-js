@@ -53,6 +53,7 @@
     "coveralls": "^3.0.3",
     "css-loader": "^2.1.1",
     "glob": "^7.1.3",
+    "istanbul-instrumenter-loader": "^3.0.1",
     "karma": "^4.0.1",
     "karma-chrome-launcher": "^2.0.0",
     "karma-coverage": "^1.1.2",
